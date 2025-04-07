@@ -1,4 +1,5 @@
 ## Hi there 👋
+![ChatGPT Image Apr 7, 2025, 10_54_38 PM](https://github.com/user-attachments/assets/b5875f7d-84cd-4350-9e5f-94e6f92fa656)
 
 <!--
 **emilylai2/emilylai2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
